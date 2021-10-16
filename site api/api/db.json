@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Nike Jordan 1 Retro University Blue",
+      "price": 699,
+      "description": "Air Jordan 1 High University Blue sneakers there are many reasons to be obsessed with these Air Jordan 1 Retro High University Blue sneakers from Jordan, like their contrasting light blue panels to the iconic high-top silhouette that was first debuted by Michael Jordan in 1985. You've been warned, they're a retro classic with a modern edge",
+      "category": "men shoes",
+      "cantitate": "99",
+      "image": "imgJSON/Air-Jordan-1-University-Blue-555088-134-Release-Date-Price-4.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Air Jordan 1 High OG phantom ",
+      "price": 720,
+      "description": "Air Jordan 1 Retro High OG phantom: Supplied by a premier sneaker marketplace dealing with unworn, already sold out, in demand rarities. Each product is rigorously inspected by experienced experts guaranteeing authenticity. The Air Jordan 1 High OG “Phantom” is another outstanding look for Michael Jordan’s first signature shoe. The unique construction for the iconic silhouette features a “crinkled” leather base in Sail with Phantom (light grey) leather overlays and University Red accents on the contrast stitching and double Swoosh. The sole unit matches the Sail color on the upper. Metal lace grommets add another unique touch to this colorway, while black details for the “wings” Air Jordan logo and Nike Air logo on the tongue complete the clean look. The Air Jordan 1 High OG “Phantom” released in March 2019.",
+      "category": "men shoes",
+      "cantitate": "910",
+      "image": "imgJSON/air-jordan-1-sail-university-red-555088-160-release-date-info.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Air Jordan 1 Retro High OG wheat ",
+      "price": 310,
+      "description": "Supplied by a premier sneaker marketplace dealing with unworn, already sold out, in demand rarities. Each product is rigorously inspected by experienced experts guaranteeing authenticity. Feel like a basketball superstar with these light brown suede Air Jordan 1 Retro High OG sneakers. You'll believe you can fly. Featuring a signature Nike swoosh, stitched panels, an ankle length, a logo patch at the tongue, a lace-up front fastening, a round toe and a flat rubber sole.",
+      "category": "men shoes",
+      "cantitate": "681",
+      "image": "imgJSON/Air-Jordan-1-High-Wheat-1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Air Jordan 1 Retro High gold toe ",
+      "price": 769,
+      "description": "Supplied by a premier sneaker marketplace dealing with unworn, already sold out, in demand rarities. Each product is rigorously inspected by experienced experts guaranteeing authenticity. Released in 2019 for the NBA All-Star Weekend, the Air Jordan 1 Retro High Gold Toe sneakers from Jordan are a legendary remake of the classic. Finished with a summit gold toe cap and ankle panel, this high-top pair is not only a signature, but it's a highly-sought-after silhouette. Featuring a round toe, a flat rubber sole, a lace fastening, an ankle length, a signature Nike swoosh and an ankle length.",
+      "category": "men shoes",
+      "cantitate": "581",
+      "image": "imgJSON/air_jordan_air_jordan_1_retro_high_og_nrg_patent_gold_toe_full02_rdzymrh5.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Air Jordan 1 Mid unc ",
+      "price": 299,
+      "description": "The Air Jordan 1 Mid UNC draws inspiration from Michael Jordan’s alma mater for a fresh new look on the mid-top silhouette. The famous University Blue of the University of North Carolina shines bright on this eye-pleasing colorway of the Jordan 1 Mid with the color covering the Swooshes and collar. A white leather base spans the perforated toe, mid-panel and heel. Additional hits of Carolina Blue can be found on the Wings logo on the collar and Jumpman branding on the white nylon tongue tab. Jordan Brand opts for an always classy white rubber midsole and contrasting light blue outsole to finish off the styling of the shoe. The Air Jordan 1 Mid “UNC” was released on January 14, 2020.",
+      "category": "men shoes",
+      "cantitate": "359",
+      "image": "imgJSON/Air Jordan 1 Mid iridescent.jpg"
+    },
+    {
+      "title": "Adidas Yeezy Boost 350 V2 ",
+      "price": "390",
+      "image": "https://sneakernews.com/wp-content/uploads/2021/02/yeezy-350-ash-stone-store-list.jpg",
+      "description": "Get your hands on the latest offering from Kanye West’s highly sought-after sneaker collection. The Yeezy Boost 350 V2 silhouette is updated here in a new colourway dubbed “Fade”, consisting of an earthy brown Primeknit upper. Placed atop a signature Boost midsole for comfort, the low-top pair are finished with a blue monofilament side stripe to break up the look. Don’t pass up on these.",
+      "cantitate": "580",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "title": "Air Jordan 1 Mid iridescent ",
+      "price": 249,
+      "description": "Supplied by a premier sneaker marketplace dealing with unworn, already sold out, in demand rarities. Each product is rigorously inspected by experienced experts guaranteeing authenticity. You can always count on Jordan to reveal the light within you. These Barely Rose suede Air Jordan 1 Mid sneakers present iridescent panels at the heel to make you shine. You're a superstar. Featuring a signature Nike swoosh, contrasting panels, a metallic sheen, a logo patch at the tongue, a lace-up front fastening, a round toe and a flat rubber sole.",
+      "category": "men shoes",
+      "cantitate": "130",
+      "image": "imgJSON/Air Jordan 1 Mid iridescent.png"
+    },
+    {
+      "title": "Nike Jordan 11 High J.Balvin",
+      "price": "1,100",
+      "image": "https://sneakerbardetroit.com/wp-content/uploads/2020/11/J-Balvin-Air-Jordan-1-DC3481-900-Release-Date-Price-4.jpg",
+      "description": "Air Jordan 1 Retro High J. Balvin \"Colores y Vibras\" sneakers\nOpen your eyes to one of this year's most anticipated sneaker collaborations. Colombian singer J. Balvin, also known as \"The Prince of Reggaton\", has teamed up with Jordan to celebrate the Latinx community and music with a classic sneaker silhouette. Crafted from bold multicolour panels, these Air Jordan 1 Retro High J. Balvin \"Colores y Vibras\" sneakers pay true to Balvin's vibrant music and personality with this celebratory pair. ",
+      "cantitate": "100",
+      "id": 9
+    },
+    {
+      "title": "Nike Air Force 1 Off White Black",
+      "price": "889",
+      "image": "https://static.highsnobiety.com/thumbor/VnJEsiieuYIVMB_Hp8vqwxRCsr0=/1600x1067/static.highsnobiety.com/wp-content/uploads/2020/10/05105048/off-white-nike-air-force-1-moma-virgil-abloh-teaser-02.jpg",
+      "description": "Black leather Air Force 1 '07 Virgil x MoMa sneakers from Nike X Off-White featuring a round toe, a lace-up front fastening and side logo branding. Please note that this item is limited edition.",
+      "cantitate": "239",
+      "id": 10
+    },
+    {
+      "title": "Nike Jordan 1 Retro  Off White",
+      "price": "1,299",
+      "image": "https://www.sneakerfiles.com/wp-content/uploads/2018/02/off-white-air-jordan-1-aq0818-100-store-listings.jpg",
+      "description": "Today’s your lucky day…you’re looking at the Nike X Off-White The 10: Air Jordan 1s. And it’s also our lucky day, because we get to tell you that these are a deconstructed play on the Jordan 1 Chicago colourway. At this rate, at least one of us should buy a lottery ticket...the odds do appear to be in our favour. Featuring a signature Nike swoosh, a round toe, a front lace up detail, a rubber sole, a signature logo tag, a printed detail to the sole, a deconstructed style and a high-top design.",
+      "cantitate": "280",
+      "id": 11
+    }
+  ]
+}

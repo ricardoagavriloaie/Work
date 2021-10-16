@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "numar": "a IV-a A",
+      "elevi": "23",
+      "profesor": "Marian Maftei",
+      "media": "9.32",
+      "id": 1
+    },
+    {
+      "numar": "a- IV-a B ",
+      "elevi": "19",
+      "profesor": "Ion Barbu",
+      "media": "6.6",
+      "id": 2
+    },
+    {
+      "numar": "a-VII-a A",
+      "elevi": "17",
+      "profesor": "Maria Ababei",
+      "media": "7.23",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-color: #BBD7F4;
+}
+#city-input{
+	margin-top: 60px;
+	padding: 30px;
+	background-color:white;
+	text-align: center;
+	border-radius: 40px;
+}
+input{
+	padding: 10px;
+	width:500px;
+	font-size: larger;
+}
+button{
+	color: white;
+	background-color: #5679F0;
+	border-radius: 5%;
+	font-weight: bold;
+	border: #5679F0;
+	padding: 10px;
+}
+button:hover{
+	cursor: pointer;
+}
+/* proznoza acum */
+.vremea-acm {	
+	margin: 10px;
+	background-color: white;
+	padding: 40px;
+	border-radius: 40px;
+	
+}
+.vremea-acm h4 {	
+	text-decoration: underline;
+	font-size: larger;
+	padding-left: 0px;
+}
+#prognozaNow {
+	
+	border-radius: 30px;
+	margin: 10px;
+	background-color: white;
+	font-size: medium;
+	padding-left: 3px;
+	font-weight: 500;
+}
+
+/* prognoza pe mai multe zile */
+
+#prognozaDiv {
+	margin-top: 30px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+	grid-gap: 10px;
+}
+.prognozaHours {
+	border-radius: 30px;
+	margin: 10px;
+	padding: 10px;
+	background-color: white;
+	font-size: medium;
+	border: 1px black;
+	text-align: center;
+}
+.vremea-urm h4{
+	background-color:white;
+	text-decoration: underline;
+	font-size: large;
+	padding: 40px;
+	border-radius: 40px;
+}
+.map{
+	width: 20px;
+	height: 10px;
+	text-align: end;
+}
+.date{
+	background-color: #8080ff;
+	color: white;
+	font-size: medium;
+}
+.icon{
+	width: 80px;
+}

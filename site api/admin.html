@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+</head>
+<body>
+    <header>
+        <nav>
+        
+            <div class="menu">
+              <div class="logo">
+                <a href="index.html"> <img src="img/free_Sneaker_Icons_by_flezart-05.png" class="anim" alt=""> </a>
+              </div>
+              <h1><a href="index.html"> H Y P E </a> </h1>
+              <ul>
+                <li><a href="cart.html"><img src="img/bag.png" class="bag anim" alt=""> </a></li>
+              </ul>
+            </div>
+          </nav>
+    </header>
+    <div class="container">
+
+        <div class="card card-body card-form">
+            <h3>Adauga un produs</h3>
+
+            <div class="form-group">
+                Nume: <input type="text" id="title" class="form-control" /></div>
+
+            <div class="form-group">
+               Imagine: <input type="text" id="image" class="form-control" /></div>
+
+            <div class="form-group">
+                Pret: <input type="text" id="price" class="form-control" ></div>
+
+            <div class="form-group">
+                Descriere: <textarea id="description" class="form-control"></textarea>
+            </div>
+            <div class="form-group">
+                Cantitate: <input type="text" id="cantitate" class="form-control" ></div>
+            
+            <button class="btn btn-dark btn-secondary btn-block" id="add-product"> Adauga!</button>
+        </div> <br> <br>
+        <div class="nui">
+            <table class="table" >
+                <thead>
+                  <tr>
+                    <th scope="col" class="text-left">ID</th>
+                    <th scope="col" class="text-left">Imagine</th>
+                    <th scope="col" class="text-left">Nume</th>
+                    <th scope="col" class="text-right">Pret</th>
+                    <th scope="col" class="text-left-cant">Cantitate</th>
+                  </tr>
+                </thead>
+            </table>
+            <table id="info" class="table">
+                
+            </div>
+        <script src="src/admin.js" type="module"></script>
+</body>
+</html>

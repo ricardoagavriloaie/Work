@@ -1,0 +1,312 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Geneva, Tahoma, sans-serif;
+    
+  }
+
+  /* nav */
+ 
+  .shower{
+      background-color: rgb(0, 0, 0, 0.9);
+      color: white;
+      text-align: center;
+      padding: 10px;
+      display: flex;
+      justify-content: space-around;
+      font-weight: bold;
+  }
+  .shower span{
+      color: darkmagenta;
+  }
+nav{
+    position: sticky;
+    background: white;
+    width: 100%;
+    padding: 10px 0;
+    z-index: 12;
+    
+   
+  }
+
+  .anim{
+      width:100px;
+      -webkit-transition: -webkit-transform .8s ease-in-out;
+          transition:         transform .8s ease-in-out;
+  }
+  .anim:hover{
+    -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
+}
+  
+  nav .menu{
+    max-width: 1250px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+
+  }
+  .menu .logo a{
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+    font-weight: 250;
+    padding-top: 1000px;
+  }
+  .menu ul{
+    display: inline-flex;
+  }
+  .menu ul li{
+    list-style: none;
+    margin-left: 7px;
+  }
+  .menu ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 15px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+  }
+  .menu ul li a:hover{
+    background: #fff;
+    color: darkmagenta;
+  }
+
+
+.bag{
+      width: 50px;
+      height: 40px;
+  }
+
+
+/* imagine heder */
+  .head img{
+  width: 200px;
+    
+}
+.head{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    background: url(img/Red_Hype_Hand_1_edited_square_2000x.webp) no-repeat 20% 27% ;
+    padding:200px;
+    opacity: 0.9;
+    filter: brightness(160%)
+}
+
+.text span{
+    font-size: 90px;
+    color: black;
+    text-shadow: 1px 3px 3px  black;
+
+}
+
+/* text */
+
+.introText{
+  text-align: center;
+  font-size: 30px;
+  padding: 100px;
+  font-weight: bolder;
+}
+.introText p{
+  font-size: 13px;
+  font-weight: lighter;
+}
+
+
+
+
+
+  /* container cards */
+ 
+
+ #products {
+  
+	display: grid;
+	grid-template-columns:  auto auto auto auto;
+	grid-gap: 10px;
+    margin: 50px;
+} 
+
+.obiectBox {
+  
+	height: 470px;
+  text-align: center;
+  
+}
+.obiectBox button {
+background: royalblue;
+border: none;
+outline: none;
+padding: 10px 10px;
+color: #fff;
+text-decoration: none;
+}
+.obiectBox span{
+  color: green;
+  font-size: 30px;
+}
+
+.obiectBox button a{
+  text-decoration: none;
+  color: #fff;
+}
+.obiectBox img{
+    width: 400px;
+    height: 320px;
+    
+}
+.pMid{
+  text-align: center;
+  padding-top: 100px;
+  font-size: 20px;
+  font-weight: bolder;
+  padding-bottom: 20px;
+}
+.pSecond{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bolder;
+}
+.upperFooter{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 10px;
+  text-align: center;
+  padding: 100px;
+  font-size: 10px;
+  padding-top: 1px;
+}
+.icon img{
+  width: 35px;
+  padding-bottom: 10px;
+}
+.icon a{
+  color: gray;
+}
+.icon a:hover{
+  color: darkmagenta;
+}
+.contact{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  text-align: center;
+  padding: 100px;
+  font-size: 10px;
+  padding-top: 1px;
+}
+
+
+
+/* footer */
+
+footer{
+    font-size: 10px;
+    margin:auto;
+    display: flex;
+    justify-content: center;
+}
+
+.custom{
+    margin:auto;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+/* admin */
+
+img{
+  width: 200px;
+}
+.text-left-cant{
+  padding-right: 300px;
+}
+.product-box{
+  min-height: 470px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.product-box a{
+text-decoration: none;
+}
+.product-box h3{
+  color:#000;
+  font-size: 24px;
+  font-weight: 600;
+}
+.product-box .btn{
+  margin-top: 20px;
+  background-color: #fff;
+  border:solid 1px #000;
+  border-radius:10px;
+  padding: 5px 20px;
+  display: block;
+    width: 200px;
+    margin: 0 auto;
+    color: #000;
+    font-size: 20px;
+}
+.product-box .btn:hover{
+  background-color: #000;
+  border:solid 1px #000;
+  color: #fff;
+}
+#product_image{
+  margin: 25px;
+  width: 700px;
+}
+.num{
+  color: green;
+}
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+h1 a{
+  text-decoration: none;
+  color: #000;
+}
+h1 a:hover{
+  text-decoration: none;
+  color: darkmagenta;
+}
